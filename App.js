@@ -4,7 +4,7 @@ import { NavigationContainer } from '@react-navigation/native';
 import { MaterialIcons } from '@expo/vector-icons';
 
 import TimetableScreen from './Timetable.js';
-import SettingsScreen from '../app/Settings.js';
+import SettingsScreen from './Settings.js';
 
 
 const Tab = createBottomTabNavigator();
